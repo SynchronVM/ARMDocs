@@ -10,7 +10,7 @@
 - [May the Trust be with You: Empowering TrustZone-M with Multiple Trusted Environments](https://www.youtube.com/watch?v=kuMh1MXqJBw) - Introduces TrustZone-M slightly and describes the [uTango](https://arxiv.org/pdf/2102.03625.pdf) TEE on it.
 - [Using TrustZone on Cortex-M23 and Cortex-M33](https://www.youtube.com/watch?v=0LpCEwSfA0s) - Shows a demo of the generated assembly and a walkthrough across the secure and non-secure memory regions while executing a sample application. Uses some proprietary tools like Keil.
 - [Designing a Trusted Execution environment in Zephyr OS](https://www.youtube.com/watch?v=HZiZz3Rr4sg) - Zephyr's TrustZone maintainer talks about the changes in Zephyr to support TrustZone. Fairly high-level.
-- [Zephyr and Trusted Execution Environments](https://www.youtube.com/watch?v=mMnxdZP5_iw) - A user-experience talk on Zephyr's TrustZone facilities. Again no code shown, very high-level talk. 
+- [Zephyr and Trusted Execution Environments](https://www.youtube.com/watch?v=mMnxdZP5_iw) - A user-experience talk on Zephyr's TrustZone APIs. Again no code shown, very high-level talk. 
 
 ### Official Documentation from ARM
 - [Using TrustZone on Armv8-M](https://www.keil.com/appnotes/files/apnt_291.pdf)
