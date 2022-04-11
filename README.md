@@ -8,3 +8,7 @@
 ### Videos
 - [The ARM University Program, ARM Architecture Fundamentals](https://www.youtube.com/watch?v=7LqPJGnBPMM) - Very good basic introduction to the ARM architecture, assembly, etc.
 - [May the Trust be with You: Empowering TrustZone-M with Multiple Trusted Environments](https://www.youtube.com/watch?v=kuMh1MXqJBw) - Introduces TrustZone-M slightly and describes the [uTango](https://arxiv.org/pdf/2102.03625.pdf) TEE on it.
+- [Using TrustZone on Cortex-M23 and Cortex-M33](https://www.youtube.com/watch?v=0LpCEwSfA0s) - Show a demo of walking through the secure and non-secure memory regions while executing a sample application. Uses some proprietary tools like Keil.
+
+### Documentation from ARM
+- [Using TrustZone on Armv8-M](https://www.keil.com/appnotes/files/apnt_291.pdf)
