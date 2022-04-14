@@ -15,3 +15,6 @@
 
 ### Official Documentation from ARM
 - [Using TrustZone on Armv8-M](https://www.keil.com/appnotes/files/apnt_291.pdf)
+
+### Language Abstractions for Trusted Code
+- [JE Programming Language](https://prg-grp.github.io/je-lang/) - [Video](https://www.youtube.com/watch?v=6fPYfUjXcGg)
