@@ -19,5 +19,6 @@
 ### Language Abstractions for Trusted Code
 - [Secured Routines: Language-based Construction of Trusted Execution Environments](https://www.usenix.org/conference/atc19/presentation/ghosn) - Contains paper, video, etc. Very relevant work.
 - [Enclosure: language-based restriction of untrusted libraries](https://dl.acm.org/doi/abs/10.1145/3445814.3446728) - Uses Intel SGX and more advanced support from Intel, which might not be entirely relevant. But the runtime abstractions are very similar to what we are thinking about.
+- [Trust as a Programming Primitive](https://infoscience.epfl.ch/record/289120) - Adrien Ghosn's PhD thesis (author of the two papers above). (Must Read)
 - [Uranus: Simple, Efficient SGX Programming and its Applications](https://dl.acm.org/doi/abs/10.1145/3320269.3384763) - Java annotations based abstractions.
 - [JE Programming Language](https://prg-grp.github.io/je-lang/) - [Video](https://www.youtube.com/watch?v=6fPYfUjXcGg)
